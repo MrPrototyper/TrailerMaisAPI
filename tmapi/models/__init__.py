@@ -1,0 +1,1 @@
+from .TrailerMaisUser import TrailerMaisUser, TrailerMaisUserManager
