@@ -29,7 +29,9 @@ docker-compose==1.29.2
 dockerpty==0.4.1
 docopt==0.6.2
 drf-spectacular==0.27.2
+drf-yasg==1.21.7
 Faker==22.5.1
+gunicorn==23.0.0
 idna==3.6
 inflection==0.5.1
 isort==5.13.2
